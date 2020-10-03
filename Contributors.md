@@ -117,5 +117,8 @@ Name: [Muhammad Iqbal R](https://github.com/miqbalrr) <br/>
 Place: Indonesia <br/>
 About: BACKEND Developer <br/>
 
+Name: [The Sewak](https://github.com/thesewak)<br/>
+Place: Nepal <br/>
+About: Game Development student <br/>
 
 
